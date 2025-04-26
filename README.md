@@ -7,7 +7,7 @@
 <br clear="both"><br>
 
 <br>
-<h2 align="left"> 💻 Tech Stack </h2>
+<h2 align="left"> 💻 Tech Stack: </h2>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@
   </a>
 </div>
 <br>
-<h2 align="left"> 📊 Stats </h2>
+<h2 align="left"> 📊 Stats: </h2>
 <br>
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=AzriVz&count_private=true&theme=cobalt&border_radius=10" alt="streak stats"/>
@@ -25,7 +25,7 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzriVz&hide=HTML&langs_count=5&layout=compact&theme=cobalt&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<h2 align="left"> 🔍 Find me on </h2>
+<h2 align="left"> 🌐 Social Media: </h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/azriarzaq/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
