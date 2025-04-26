@@ -7,7 +7,7 @@
 <br clear="both"><br>
 
 <br>
-<h2 align="left"> 📱 Tech Stack </h2>
+<h2 align="left"> 💻 Tech Stack </h2>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@
   </a>
 </div>
 <br>
-<h2 align="left"> ❄️ Stats </h2>
+<h2 align="left"> 📊 Stats </h2>
 <br>
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=AzriVz&count_private=true&theme=cobalt&border_radius=10" alt="streak stats"/>
