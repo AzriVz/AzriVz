@@ -2,7 +2,7 @@
 <h4 align="center">A Computer Science student at Institut Teknologi Bandung (ITB)</h4>
 
 <div align="center">
-  <img align="center" alt="Coding" width="600" src="https://i.pinimg.com/originals/8a/99/92/8a9992b3c8c037a61a2899b775eba9bb.gif">
+  <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/8a/99/92/8a9992b3c8c037a61a2899b775eba9bb.gif">
 </div>
 <br clear="both"><br>
 
