@@ -11,8 +11,8 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,cs,html,css" /> <br>
-    <img src="https://skillicons.dev/icons?i=github,replit,git,nodejs,react,unity,vscode,figma,ubuntu,kali" />
+    <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,cs,html,css,haskell,golang,mysql" /> <br>
+    <img src="https://skillicons.dev/icons?i=github,replit,git,nodejs,react,unity,vscode,figma,ubuntu,bun,docker" />
   </a>
 </div>
 <br>
